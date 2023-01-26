@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - python
+  - numpy
+  - pandas
+  - jupyterlab
 prefix: C:\Users\zhaowq\.conda\envs\comp30830
